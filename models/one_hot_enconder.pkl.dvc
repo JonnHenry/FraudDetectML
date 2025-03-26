@@ -1,0 +1,5 @@
+outs:
+- md5: abca6d53dd26dd51feec9ff34aa09602
+  size: 2377
+  hash: md5
+  path: one_hot_enconder.pkl

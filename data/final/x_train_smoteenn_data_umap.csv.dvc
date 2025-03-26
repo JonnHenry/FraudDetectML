@@ -1,0 +1,5 @@
+outs:
+- md5: 50078280b2bbb40d2d982c73d87adadf
+  size: 46013440
+  hash: md5
+  path: x_train_smoteenn_data_umap.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: dc5e1a07595fe2a2f875142f295c4f12
+  size: 4491894
+  hash: md5
+  path: y_train_smoteenn_data_pca.csv

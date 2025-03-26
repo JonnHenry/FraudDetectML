@@ -1,0 +1,5 @@
+outs:
+- md5: ca27a0bcc98cf87840a67009d9588899
+  size: 209874903
+  hash: md5
+  path: x_train_smoteenn_data.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: fe1c8037d557f18c679abc5f7958a3fe
+  size: 717861705
+  hash: md5
+  path: data_smoteenn_x.csv
