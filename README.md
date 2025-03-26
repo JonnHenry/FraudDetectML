@@ -18,7 +18,7 @@ El objetivo principal de **FraudDetectML** es construir un modelo de machine lea
 
 ## 📌 Datos utilizadas
 
-El dataset usado para el proyecto se encuentra en [Bank Account Fraud (BAF)](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) se publicó en NeurIPS 2022 y comprende un total de 6 conjuntos de datos tabulares sintéticos diferentes sobre fraude en cuentas bancarias. BAF es un banco de pruebas realista, completo y sólido para evaluar métodos nuevos y existentes en ML y fair ML, ¡y es el primero de su tipo!
+El dataset usado para el proyecto se encuentra en [Bank Account Fraud (BAF)](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) se publicó en NeurIPS 2022 y comprende un total de 6 conjuntos de datos tabulares sintéticos diferentes sobre fraude en cuentas bancarias. BAF es un banco de pruebas realista, completo y sólido para evaluar métodos nuevos y existentes en ML.
 ## 🛠️ Instalación
 
 Para ejecutar este proyecto, es necesario tener instalado Python y las siguientes dependencias. Puedes instalar las dependencias utilizando `pip` o `conda`:
