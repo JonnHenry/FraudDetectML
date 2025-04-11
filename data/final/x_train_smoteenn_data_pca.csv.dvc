@@ -1,5 +1,0 @@
-outs:
-- md5: fec2d5c3c7cf049a08fd6f8ec5e823d7
-  size: 358021152
-  hash: md5
-  path: x_train_smoteenn_data_pca.csv

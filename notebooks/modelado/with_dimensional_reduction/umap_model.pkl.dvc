@@ -1,5 +1,0 @@
-outs:
-- md5: 699d77470b4a4cbf96caef2f038ab270
-  size: 1072990997
-  hash: md5
-  path: umap_model.pkl
